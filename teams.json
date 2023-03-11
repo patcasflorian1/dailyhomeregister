@@ -1,0 +1,28 @@
+[
+  {
+    "useremail": "won11",
+    "password": "Noi",
+    "role": "Teams",
+    "statut": "github"
+  },
+  {
+    "useremail": "won13",
+    "password": "Ei",
+    "role": "Teams2",
+    "statut": "github2"
+  },
+  {
+    "useremail": "won14",
+    "password": "Ei",
+    "role": "Teams2",
+    "statut": "github2"
+  },
+  {
+    "useremail": "A",
+    "password": "B",
+    "role": "C",
+    "statut": "D"
+  }
+]
+
+    
